@@ -1,0 +1,48 @@
+/* styles.css */
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#header{
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(100, 0, 255);
+    color: white;
+    border:solid;
+    border-color: black;
+}
+
+#header.subpage{
+    font-size: 30px;
+    background-color: rgb(100, 200, 255);
+}
+
+img{
+    width: 600px;
+    height: auto;
+}
+
+h4{
+    text-decoration: underline;
+}
+
+.list{
+    border-style: double;
+    border-width: 6px;
+    margin-right: 70%;
+}
+
+ul{
+    border-color: rgb(255, 143, 125);
+    list-style:circle;
+
+}
+
+ol{
+    border-color: rgb(22, 190, 98);
+}
+
+li{
+    margin-right: 20px;
+}
